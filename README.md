@@ -1,2 +1,2 @@
-# Sistem-Temu-Kembali-Informasi
+# Sistem-Temu-Kembali-Informasi-Dokumen-Skripsi
 STKI - Steeming, Tokenization
