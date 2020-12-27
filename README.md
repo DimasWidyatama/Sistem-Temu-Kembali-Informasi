@@ -1,4 +1,4 @@
-# Sistem-Temu-Kembali-Informasi-Dokumen-Skripsi
+# Sistem-Temu-Kembali-Informasi-Dokumen-Skripsi 
 STKI - Steeming, Tokenization
 
 Nama : Dimas Widyatama
